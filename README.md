@@ -23,7 +23,7 @@ Gives actionable suggestions to improve your resume
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/cv-scanner.git
+git clone https://sitanjlid.github.io/CV-scanner
 cd cv-scanner
 npm install
 npm start
